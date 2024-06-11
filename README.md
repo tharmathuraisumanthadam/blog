@@ -1,4 +1,4 @@
-221# The Hugging Face1Blog Repository 🤗
+221# The Hugging Face1Blog Repfdsository 🤗
 This is the official repository of the [Hugging Face Blog](https://hf.co/blog). 
 
 **If you are an external contributor**: If your blog post is not a collaboration post with Hugging Face, please consider creating a [community blog](https://huggingface.co/blog-explorers) instead. Communitfgdsgy blog posts appear on our blogs main page just like the blogs in this repository.
