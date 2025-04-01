@@ -1,4 +1,4 @@
----
+---gdf
 title: "Practical 3D Asset Generation: A Step-by-Step Guide"
 thumbnail: /blog/assets/124_ml-for-games/thumbnail-3d.jpg
 authors:
